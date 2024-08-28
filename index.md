@@ -5,4 +5,4 @@ description: Home Page
 hide: true
 ---
 
-Nolan's journey starts here
+Nolan's journey starts here - Kickin' Projects
