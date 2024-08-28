@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Student Home 
+title: Nolan's Home 
 description: Home Page
 hide: true
 ---
 
-My journey starts here.
+Nolan's journey starts here
